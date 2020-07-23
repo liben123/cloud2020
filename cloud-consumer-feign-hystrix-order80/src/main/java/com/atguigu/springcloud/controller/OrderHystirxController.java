@@ -1,6 +1,6 @@
-package com.liben123.springcloud.controller;
+package com.atguigu.springcloud.controller;
 
-import com.liben123.springcloud.service.PaymentHystrixService;
+import com.atguigu.springcloud.service.PaymentHystrixService;
 import com.netflix.hystrix.contrib.javanica.annotation.DefaultProperties;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty;

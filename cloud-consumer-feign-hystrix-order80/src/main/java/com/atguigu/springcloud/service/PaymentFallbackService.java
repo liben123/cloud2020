@@ -1,4 +1,4 @@
-package com.liben123.springcloud.service;
+package com.atguigu.springcloud.service;
 
 
 import org.springframework.stereotype.Component;

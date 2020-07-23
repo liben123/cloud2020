@@ -1,4 +1,4 @@
-package com.liben123.springcloud;
+package com.atguigu.springcloud;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.hystrix.EnableHystrix;
